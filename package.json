@@ -5,12 +5,14 @@
   "dependencies": {
     "bootstrap": "^3.4.1",
     "gh-pages": "^2.1.1",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "lodash": "^4.17.15",
+    "lodash.template": "^4.5.0",
+    "react": "^16.10.1",
+    "react-dom": "^16.10.1",
     "react-scripts": "3.0.0",
     "tachyons": "^4.11.1"
   },
-  "homepage": "https://github.com/sn-s/Weather-app",
+  "homepage": "https://sn-s.github.io/Weather-app",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
